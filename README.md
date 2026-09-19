@@ -1,43 +1,75 @@
 # Hi, I'm Abnik 👋
 
-AI Engineer focused on Agentic AI Systems, LLM Infrastructure, RAG, and AI Evaluation.
+**AI Evaluation & Benchmark Engineer** focused on LLM Evals, Agent Reliability, and Post-Training.
 
-I build production-oriented AI systems that combine reasoning, retrieval, orchestration, and tool use.
+I build evaluation harnesses, benchmarks, and test datasets to understand where AI systems fail — across reasoning, retrieval, tool use, structured outputs, and multimodal tasks.
 
-I enjoy following the latest developments in AI research and industry, and regularly share insights through my blog and on X.
+My work spans **benchmark design, golden datasets, deterministic & model-based evaluation, failure analysis, regression testing, and AI system observability**.
 
-## Areas of Interest
+I also build Agentic AI and RAG systems, which helps me evaluate them from both sides: **how they are built and how they break.**
 
-- Agent Architectures
-- AI Evaluation
-- Multi-Agent Systems
-- AI Reliability & Observability
+## What I'm Focused On
+
+- LLM & Agent Evaluation
+- Benchmark Design
+- Golden Dataset Construction
+- Agent & Tool-Use Reliability
+- Multimodal Evaluation
+- Failure Analysis & Regression Testing
+- RAG Evaluation
+- Post-Training Evaluation
+- Long-Horizon Agent Evals
 
 ---
 
-## Writing
+## Evaluation Projects
 
-I write about:
+### 🔎 SpotDiff Eval
+A reproducible multimodal benchmark for evaluating vision-language models on fine-grained visual reasoning.
 
-- Agentic AI
-- RAG Architectures
-- AI System Design
-- Production Lessons from Real Projects
+- Provider-agnostic evaluation harness
+- Structured JSON outputs
+- Deterministic one-to-one scoring
+- Precision, recall, attribute accuracy & coverage
+- Multi-model benchmarking
+- Regression tests for evaluation correctness
 
-Blog: https://kinba09.github.io/blogs.html
+→ [github.com/kinba09/spotdiff-eval](https://github.com/kinba09/spotdiff-eval)
+
+---
+
+## What I Write About
+
+I write about the engineering behind evaluating AI systems:
+
+- LLM & Agent Evals
+- Benchmark Design
+- Agent Failure Modes
+- RAG & Tool-Use Reliability
+- AI Observability
+- Production AI Systems
+
+**Blog:** [kinba09.github.io/blogs.html](https://kinba09.github.io/blogs.html)
 
 ---
 
 ## Tech
 
-Agentic Workflows • Multi-Agent Systems • MCP • Tool Calling • Memory Architecture • Agent Evaluation • Production AI Systems
+**Evals & Benchmarks**  
+LLM Evals • Benchmark Design • Golden Datasets • Deterministic Scoring • LLM-as-a-Judge • Regression Testing • Failure Analysis • Safety Testing
+
+**AI Systems**  
+Agentic AI • RAG • LangGraph • LangChain • LlamaIndex • MCP • Tool Calling • Structured Outputs
+
+**Engineering & Observability**  
+Python • FastAPI • SQL • Docker • OpenTelemetry • Prometheus • CI/CD
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/abnik-ahilasamy/
-- X: https://x.com/Abnik_Ahilasamy
-- Website: https://kinba09.github.io
-- Blog: https://kinba09.github.io/blogs.html
+- LinkedIn: [linkedin.com/in/abnik-ahilasamy](https://www.linkedin.com/in/abnik-ahilasamy/)
+- X: [x.com/Abnik_Ahilasamy](https://x.com/Abnik_Ahilasamy)
+- Website: [kinba09.github.io](https://kinba09.github.io)
+- Blog: [kinba09.github.io/blogs.html](https://kinba09.github.io/blogs.html)
 - Email: abnikahilasamy@gmail.com
